@@ -20,3 +20,9 @@ This project has been an excellent opportunity to sharpen my Excel skills and de
 https://github.com/rahmatzolly/Power-Bi-Road-Accident-Analysis.git
 
 Link to the project https://cumailin-my.sharepoint.com/:x:/g/personal/19bcs1785_cuchd_in/EcF-OjegdAJJtig_FuaoWu0BQVOSF_QsRsZVWPP3IU7hQw
+
+Dashboard:-
+
+![Dashboard](https://github.com/rahmatzolly/Power-Bi-Road-Accident-Analysis/assets/77490287/bc6daef1-b003-4c31-862c-36b5619f801d)
+
+
